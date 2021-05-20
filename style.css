@@ -1,0 +1,35 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 13px rgb(134, 134, 134);
+}
+
+.heading_div {
+    float: none;
+    padding: 10px;
+    color: blue;
+    background-color: white;
+    box-shadow: 5px 5px 13px gray;
+}
+
+.heading_div2 {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.result_para_name {
+    font-size: 18px;
+    box-shadow: 5px 5px 13px gray;
+}
+
+.footer_div {
+    width: 100%;
+    position: fixed;
+    background-color: gray;
+    color: white;
+    bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    line-height: 3;
+}
